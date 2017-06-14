@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First repository. Introduction to editing and committing program edits.
